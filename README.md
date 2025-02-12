@@ -1,3 +1,4 @@
+Text Utils Application is a simple yet powerful text manipulation tool that provides essential text formatting features. Users can convert text to uppercase or lowercase, clear the text, copy text to the clipboard, and remove extra spaces for better readability. Additionally, the application includes a dark mode feature for an enhanced user experience
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
